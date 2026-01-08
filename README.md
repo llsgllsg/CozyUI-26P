@@ -1,3 +1,6 @@
+###本分支致力于为CozyUI添加2026年之后的UI
+##属于非官方扩展
+
 ![image](description_image/banner.jpg)
 ![image](description_image/title.gif)
 
@@ -15,9 +18,9 @@
 
 ### 如果喜欢 🥰 我的作品，🙏 请务必在网页右上角 ↗️ 给这个项目点颗星星 ⭐Star 感谢您的支持！！！🤩🤩🤩
 
-作者Ｂ站：https://space.bilibili.com/350715147
+原作者Ｂ站：https://space.bilibili.com/350715147
 
-作者网名：零雾〇五Fogg05
+原作者网名：零雾〇五Fogg05
 
 ***
 
@@ -27,9 +30,7 @@ Feel free to join in the creation of my pack, which is now open-source under the
 
 ***
 
-###    Title 名称: CozyUI+
-   
-###    Author 作者: 零雾〇五 Fogg05
+
    
 ● This pack is based on - 作品基于：
 
@@ -37,33 +38,7 @@ Feel free to join in the creation of my pack, which is now open-source under the
 
 ○ NotoSans：https://github.com/notofonts/noto-cjk
 
-***
 
-### ● Covered mods - 作品适配过的MOD
-
-| Mod Name 模组名称 | Link 链接 | - |
-|:------:|:------:|:------:|
-OptiGUI | [🔗 Modrinth](https://modrinth.com/mod/optigui) | ⭐ Recommended
-Apple Skin - 苹果皮 | [🔗 Modrinth](https://modrinth.com/mod/appleskin) | 🔄 Optional
-Detail Armor Bar - 细节盔甲 | [🔗 Modrinth](https://modrinth.com/mod/detail-armor-bar) | 🔄 Optional
-Litematica - 投影 | [🔗 Modrinth](https://modrinth.com/mod/litematica) | 🔄 Optional
-MiniHUD - 迷你HUD | [🔗 Modrinth](https://modrinth.com/mod/minihud) | 🔄 Optional
-Replay Mod - 录像回放 | [🔗 Modrinth](https://modrinth.com/mod/replaymod) | 🔄 Optional
-Inventory Hud+ - 物品栏HUD+ | [🔗 CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge) | 🔄 Optional
-Dynamic Crosshair - 动态准星 | [🔗 Modrinth](https://modrinth.com/mod/dynamiccrosshair) | 🔄 Optional
-Jade - 玉 | [🔗 Modrinth](https://modrinth.com/mod/jade) | 🔄 Optional
-Roughly Enough Items - REI物品管理器 | [🔗 Modrinth](https://modrinth.com/mod/rei) | 🔄 Optional
-Just Enough Items - JEI物品管理器 | [🔗 Modrinth](https://modrinth.com/mod/jei) | 🔄 Optional
-Inventory Profiles Next - 一键背包整理Next | [🔗 Modrinth](https://modrinth.com/mod/inventory-profiles-next) | 🔄 Optional
-Xaero's Minimap - Xaero的小地图 | [🔗 Modrinth](https://modrinth.com/mod/xaeros-minimap) | 🔄 Optional
-Xaero's World MAP - Xaero的世界地图 | [🔗 Modrinth](https://modrinth.com/mod/xaeros-world-map) | 🔄 Optional
-Mod Menu - 模组菜单 | [🔗 Modrinth](https://modrinth.com/mod/modmenu) | 🔄 Optional
-No Chat Reports - 禁用聊天举报 | [🔗 Modrinth](https://modrinth.com/mod/no-chat-reports) | 🔄 Optional
-Simple Voice Chat - 简单的语音聊天 | [🔗 Modrinth](https://modrinth.com/plugin/simple-voice-chat) | 🔄 Optional
-Entity Features - 实体特性 | [🔗 Modrinth](https://modrinth.com/mod/entitytexturefeatures) | 🔄 Optional
-Overflowing Bars | [🔗 Modrinth](https://modrinth.com/mod/overflowing-bars) | 🔄 Optional
-
-***
 
 ### ● Recipes in the brewing stand - 酿造台配方
 
