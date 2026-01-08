@@ -1,5 +1,5 @@
-###本分支致力于为CozyUI添加2026年之后的UI
-##属于非官方扩展
+### 本分支致力于为CozyUI添加2026年之后的UI
+## 属于非官方扩展
 
 ![image](description_image/banner.jpg)
 ![image](description_image/title.gif)
